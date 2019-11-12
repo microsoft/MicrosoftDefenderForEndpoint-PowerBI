@@ -10,19 +10,6 @@ PowerBI report repository for MDATP
 This repo contains sample reports for [MDATP reporting](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/api-power-bi).
 With these sample reports, you can start to build your own custom reports.
 
-## Contents
-
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
-
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
-
 ## Prerequisites
 *Not using Microsoft Defender ATP?* If you haven't yet, experience how you can effectively scale your organization's incident response capabilities by signing up for a [free Microsoft Defender ATP trial](https://www.microsoft.com/en-us/windowsforbusiness/windows-atp?ocid=queryrepogit). 
 
