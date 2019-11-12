@@ -4,9 +4,8 @@ languages:
 -kusto
 products: 
 -mdatp
-PowerBI report repository for MDATP
 ---
-
+PowerBI report repository for MDATP
 # Official Microsoft Sample
 
 <!-- 
