@@ -10,16 +10,6 @@ PowerBI report repository for MDATP
 This repo contains sample reports for [MDATP reporting](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/api-power-bi).
 With these sample reports, you can start to build your own custom reports.
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-Give a short description for your sample here. What does it do and why is it important?
-
 ## Contents
 
 Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
@@ -34,20 +24,11 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `LICENSE`         | The license for the sample.                |
 
 ## Prerequisites
+*Not using Microsoft Defender ATP?* If you haven't yet, experience how you can effectively scale your organization's incident response capabilities by signing up for a [free Microsoft Defender ATP trial](https://www.microsoft.com/en-us/windowsforbusiness/windows-atp?ocid=queryrepogit). 
 
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
+To open the provided samples you also need to download and install [PowerBI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
-## Setup
-
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
-
-## Runnning the sample
-
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
-
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
+Setup the API´s in your tenant for connectivity https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/apis-intro
 
 ## Contributing
 
