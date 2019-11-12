@@ -1,11 +1,10 @@
 ---
 page_type: sample
-languages: kusto
-- csharp
-products: mdatp
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
+languages: 
+-kusto
+products: 
+-mdatp
+PowerBI report repository for MDATP
 ---
 
 # Official Microsoft Sample
