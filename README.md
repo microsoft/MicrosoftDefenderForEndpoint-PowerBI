@@ -6,7 +6,9 @@ products:
 - mdatp
 ---
 PowerBI report repository for MDATP
-# Official Microsoft Sample
+# MDATP sample reports
+This repo contains sample reports for [MDATP reporting](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/api-power-bi).
+With these sample reports, you can start to build your own custom reports.
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
