@@ -1,9 +1,9 @@
 ---
 page_type: sample
 languages: 
--kusto
+- kusto
 products: 
--mdatp
+- mdatp
 ---
 PowerBI report repository for MDATP
 # Official Microsoft Sample
