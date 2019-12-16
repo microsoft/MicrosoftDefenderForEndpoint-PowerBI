@@ -4,7 +4,7 @@ languages:
 - kusto
 products: 
 - mdatp
-description: "MDATP repository for PowerBI reports"
+description: "Microsoft Defender ATP repository for PowerBI reports"
 ---
 # Microsoft Defender ATP PowerBI reports samples
 
