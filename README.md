@@ -6,7 +6,7 @@ products:
 - mdatp
 description: "MDATP repository for PowerBI reports"
 ---
-# Microsoft Defender PowerBI reports samples
+# Microsoft Defender ATP PowerBI reports samples
 
 Welcome to the repository for PowerBI reports using Microsoft Defender data!
 This repository is a starting point for all Microsoft Defender's users to share PowerBI reports that utilizes Microsoft Defender data.
@@ -25,7 +25,7 @@ We welcome you to share and contribute, check out the guide in the [CONTRIBUTING
 ## API documentation
 For more info on our available APIs - go to our [API documentation](https://docs.microsoft.com/en-gb/windows/security/threat-protection/microsoft-defender-atp/exposed-apis-list)
 
-## Additional MDATP repositories
+## Additional Microsoft Defender ATP repositories
 We have more repositories for different use cases, we invite you to explore and contribute.
 * [PowerShell scripts using Microsoft Defender ATP public API](https://github.com/microsoft/MicrosoftDefenderATP-API-PowerShell)
 
